@@ -295,7 +295,10 @@ summary(modelAlaSup.RecipWithGenScaled)
 
 
 
-## Reporting Models
+#######################
+### REPORTING ERGMs ###
+#######################
+
 require(xtable)
 require(texreg)
 
