@@ -1,6 +1,7 @@
 
 ## Code to accompany ``Social Support Networks and Religiosity in Rural South India'' ##
 ## Includes code for generating the social support networks, running the ERGMs, and visualizing the results
+## The required files that accompany the code are not included here. Those interested in accessing the required files should contact epower@santafe.edu
 
 
 require(igraph)
